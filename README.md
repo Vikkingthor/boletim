@@ -5,7 +5,7 @@ At first, each student started with 5 notes, making the process simple, however,
 It's simple in a way, but I thought it would be interesting to put it here in the repository.
 
 
-                                                                              |     [PT - BR]    |
+                                                                          |     [PT - BR]    |
 
 Como estou aprendendo C#, houve um exercício onde deveria pegar meus conhecimentos até o momento e criar um boletim utilizando as notas predefinidas dos alunos.
 
