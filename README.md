@@ -4,9 +4,9 @@ At first, each student started with 5 notes, making the process simple, however,
 
 It's simple in a way, but I thought it would be interesting to put it here in the repository.
 
-======================================================================================================================================
-|                                                            [PT - BR]                                                               |
-======================================================================================================================================
+
+                                                                              |     [PT - BR]    |
+
 Como estou aprendendo C#, houve um exercício onde deveria pegar meus conhecimentos até o momento e criar um boletim utilizando as notas predefinidas dos alunos.
 
 De início, cada aluno começou com 5 notas, tornando o processo simples, porém, conforme avancei tive de inserir duas notas a mais para um dos alunos, um para outro, e assim por diante. Após adicionar essas notas para os alunos, tive de fazer uma conta para que, a média final de cada aluno some 10% de acordo com a nota das provas "extras".
